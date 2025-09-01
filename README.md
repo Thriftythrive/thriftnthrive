@@ -1,12 +1,9 @@
 # Thrift N Thrive — Next.js + Serverless API (Stripe + Supabase)
 
 ## Quick start
-```bash
-npm i
-cp .env.local.example .env.local
-# fill keys
+cd "$env:USERPROFILE\Downloads\thriftnthrive-nextjs"
+npm install
 npm run dev
-```
 
 ## Stripe webhook (local)
 ```bash
